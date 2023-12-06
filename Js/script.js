@@ -10,7 +10,7 @@ let contentLogo = document.querySelector('#miLogo')
 window.onload = load;
 //Funciones
 
-contentLogo.innerHTML = `Robert<span>rm0</span>`;
+contentLogo.innerHTML = `Yis<span>Hub</span>`;
 
 // abrir badge de bienvenida
 botonContactame.addEventListener('click', abrirContacto )
